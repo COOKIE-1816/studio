@@ -1,6 +1,6 @@
 mainWindow = new BrowserWindow({
-    width: 800,
-    height: 520,
+    width: 1634,
+    height: 855,
 });
 
 mainWindow.loadURL(`file://${__dirname}/gui/index.html`);
