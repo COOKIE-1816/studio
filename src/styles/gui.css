@@ -27,6 +27,7 @@ body {
 
 .window .titlebar {
     background-color: rgb(73, 14, 83);
+    font-weight: bolder;
 }
 
 #rootwin {
